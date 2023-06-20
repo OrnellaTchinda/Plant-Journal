@@ -1,0 +1,110 @@
+body {
+    margin: 1rem 3rem;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.react-app {
+    width: 50rem;
+    height: auto;
+    margin: 10px auto;
+    background-color: rgb(255, 255, 255);
+    overflow-y: auto;
+    box-shadow: 0px 1px 14px 0px rgba(128, 128, 128, 0.353);
+}
+
+.navbar {
+    height: 55px;
+    background: #2A9E00;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.navbarImg {
+    padding-right: 5px;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+}
+
+.navbar h4 {
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 1.1rem;
+    letter-spacing: 0.008em;
+    color: #FFFFFF;
+}
+
+.hero {
+    margin: 45px 0 20px 0;
+    display: flex;
+    align-items: center;
+}
+
+.hero-img {
+    width: 10rem;
+    height: 16rem;
+    border-radius: 5px;
+}
+
+.sectionOne {
+    padding-right: 20px;
+    padding-left: 0.5rem;
+}
+
+.sectionTwo {
+    padding-top: 0.5rem;
+    padding-right: 0.2rem;
+}
+
+
+.sectionTwo .location {
+    text-transform: uppercase;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #2B283A;
+}
+
+.sectionTwo .googleMaps {
+    font-size: 10.24px;
+    text-decoration-line: underline;
+    color: #918E9B;
+    padding-left: 1rem;
+
+}
+
+.sectionTwo h3 {
+    font-family: 'Inter';
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+    margin: 1rem 0;
+
+}
+
+.sectionTwo h6 {
+    font-size: 1rem;
+    color: #2B283A;
+    margin: 0.2rem 0;
+
+}
+
+.sectionTwo p {
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #2B283A;
+}
+
+.sectionTwo .date {
+    font-weight: 700;
+    font-size: 0.75rem;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+hr {
+    margin: 0 0.5rem;
+}
