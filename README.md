@@ -18,4 +18,5 @@ My learning was focused on making a website using React that generates informati
 ## Optimizations
 
 When I improve this project, I would use an API to generate different plants with information about them using this plant API: https://perenual.com/docs/api .
+I would create a login option for people to add their plants and the care and why not a way for them to remind them when to water their plant for example.
 
